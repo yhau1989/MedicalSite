@@ -8,7 +8,10 @@ class HTML2PDF_exception extends exception
     protected $_image = null;
     protected $_messageHtml = '';
 
-   
+   /**/
+      @param   
+      @param    
+      @return   
     
     final public function __construct($err = 0, $other = null, $html = '')
     {
